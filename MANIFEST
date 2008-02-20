@@ -1,0 +1,5 @@
+lib/POE/Filter/Swank.pm
+Makefile.PL
+MANIFEST			This list of files
+MANIFEST.SKIP
+t/00-compile.t
